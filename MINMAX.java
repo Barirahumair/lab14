@@ -21,7 +21,7 @@ public class MINMAX {
 
 		public static void main(String[] args) {
 			MINMAX obj = new MINMAX();
-		    int[] arr = {3, 5, 2, 1, 9, 4};
+		    int[] arr = {3, 5, 2, 1, 9, 4 ,12 };
 		    //test case for getMax
 		    int max = obj.getMax(arr);
 		    System.out.println("Max element in the array is : " + max);
